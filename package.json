@@ -1,0 +1,19 @@
+{
+  "name": "git-proj1",
+  "version": "1.0.0",
+  "description": "first project with git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shakshuka5/git-proj1.git"
+  },
+  "author": "taly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shakshuka5/git-proj1/issues"
+  },
+  "homepage": "https://github.com/shakshuka5/git-proj1#readme"
+}
